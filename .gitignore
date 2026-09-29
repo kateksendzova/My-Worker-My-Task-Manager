@@ -1,0 +1,12 @@
+# Visual Studio / C++ cache & build files
+.vs/
+*.ipch
+[Bb]in/
+[Oo]bj/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.opensdf
+*.sdf
